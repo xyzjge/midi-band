@@ -1,6 +1,4 @@
-Midi Band allows you to create songs using Java Sound Midi support.
-
-Midi Band user interface uses the XYZ game engine.
+Midi Band allows you to create songs using the Java Sound Midi support.
 
 It supports, among others features:
 
