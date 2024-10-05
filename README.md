@@ -7,7 +7,7 @@ It supports, among others features:
 
 For a short introduction see the following video
 
-[![Watch the video](https://i.ytimg.com/vi/HnlVdcr7t5Q/hqdefault.jpg)](https://youtu.be/HnlVdcr7t5Q)
+[![Watch the video](https://i3.ytimg.com/vi/SLrJ70bWu68/maxresdefault.jpg)](https://youtu.be/SLrJ70bWu68)
 
 Here you can download an ejecutable jar to run midi-band [midi-1.0.1-jar-with-dependencies.jar](https://drive.google.com/file/d/1W6Sef9kPkW4t5bI3AQ5pldAwxmax1LpD/view?usp=sharing)
 
