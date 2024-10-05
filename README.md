@@ -5,7 +5,7 @@ It supports, among others features:
 * Create a song with multiple instruments (ie drums, bass, guitar, piano, ...)
 * Export song to .wav
 
-For a shot introduction of the product see the following video
+For a short introduction of the product see the following video
 
 [![Watch the video](https://i.ytimg.com/vi/HnlVdcr7t5Q/hqdefault.jpg)](https://youtu.be/HnlVdcr7t5Q)
 
