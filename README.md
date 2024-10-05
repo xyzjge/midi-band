@@ -11,4 +11,4 @@ For a shot introduction of the product see the following video
 
 Here you can download an ejecutable jar to run the demo [midi-1.0.1-jar-with-dependencies.jar](https://drive.google.com/file/d/1W6Sef9kPkW4t5bI3AQ5pldAwxmax1LpD/view?usp=sharing)
 
-The engine documentation (WIP) is here [WIKI](https://github.com/xyzjge/game-engine/wiki)
+The product documentation (WIP) will be in [WIKI](https://github.com/xyzjge/midi-band/wiki)
